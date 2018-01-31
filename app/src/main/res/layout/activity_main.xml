@@ -104,6 +104,7 @@
         android:layout_alignLeft="@+id/heightInput"
         android:layout_alignRight="@+id/heightInput"
         android:layout_alignStart="@+id/heightInput"
+        android:editable="false"
         android:ems="10"
         android:inputType="numberDecimal"
         android:textAlignment="center"
